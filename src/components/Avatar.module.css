@@ -1,0 +1,14 @@
+.avatar {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 8px;
+}
+
+.avatarWithBorder {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: var(--green-500);
+  outline: 1px solid var(--green-500);
+}
